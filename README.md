@@ -13,6 +13,6 @@ You'll need to have [Expo](https://expo.io/learn) installed on your machine in o
 
 - `yarn run ios`/`npm run ios` or `yarn run android`/`npm run android`
 
----
+### More Info
 
 If you're interested in learning more about React Native be sure to visit [React Native School](https://www.reactnativeschool.com/) for dozens of React Native tutorials!
